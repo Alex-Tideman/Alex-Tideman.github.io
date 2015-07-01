@@ -502,7 +502,7 @@ body.nav-opened .site-wrapper {
 .main-header {
     position: relative;
     display: table;
-    width: 100%;
+    width: 50%;
     height: 100vh;
     margin-bottom: 5rem;
     text-align: center;
@@ -869,9 +869,10 @@ body.nav-opened .nav {
     margin: 10px 0 10px 0;
     font-size: 5rem;
     letter-spacing: -1px;
-    font-weight: 700;
-    font-family: "Open Sans", sans-serif;
+    font-weight: 500;
+    font-family: "Raleway", sans-serif;
     color: #fff;
+    text-shadow: 1px 1px 5px #fff;
 }
 
 .page-description {
